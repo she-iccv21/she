@@ -26,3 +26,8 @@ th, td {
 	font-weight: 600;
 }
 
+
+td.speaker {
+	font-weight: bold;
+}
+

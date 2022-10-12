@@ -7,11 +7,11 @@
 } 
 
 tr.keynote {
-	background-color: #D6DBDF;
+	background-color: #F2F3F4;
 }
 
 tr.presentation {
-	background-color: #F2F3F4  ;
+	background-color: #D6DBDF;
 }
 
 th, td {
@@ -29,5 +29,9 @@ th, td {
 
 td.speaker {
 	font-weight: bold;
+}
+
+div.abstract {
+	text-align: justify;
 }
 
